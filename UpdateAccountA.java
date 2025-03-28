@@ -315,7 +315,7 @@ class Accountfeatures {
     }
 }
 
-public class UpdateAccount {
+public class UpdateAccountA {
     public static void main(String[] args) {
         AccountInfo roti = new AccountInfo(null, null, 0, 0);
         roti.menu_section();
